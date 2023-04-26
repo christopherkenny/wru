@@ -17,3 +17,7 @@ vignettes/*.pdf
 # the local check files
 ..Rcheck
 
+# Rcpp files
+*.o
+*.so
+*.dll
